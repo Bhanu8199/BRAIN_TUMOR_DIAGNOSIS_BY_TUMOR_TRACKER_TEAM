@@ -191,7 +191,6 @@ This document should NEVER serve as the primary basis for clinical decision-maki
 
 ## TECHNICAL SUPPORT & CONTACT DETAILS
 
-**Technical Assistance Email**: tumortracker.team@gmail.com
 **Development Organization**: TumorTrackers Research Team
 **Platform Website**: https://neurovision-ai.research
 
@@ -1078,7 +1077,7 @@ elif current_page == "About":
     ### 📞 Technical Support
     
     For technical support or collaboration opportunities:
-    - *GitHub*: [TumorTrackers Repository](https://github.com/tumortracker)    
+    - *GitHub*: [TumorTrackers Repository](https://github.com/Bhanu8199/BRAIN_TUMOR_DIAGNOSIS_BY_TUMOR_TRACKER_TEAM)    
     ### 📄 Open Source Licensing
     
     This platform operates under MIT License terms. Academic and research usage requires appropriate citation of our published work.
