@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧠 NeuroVision AI - Advanced Brain Tumor Analysis Platform
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python)](https://www.python.org/)
@@ -406,3 +407,7 @@ If you use NeuroVision AI in your research or educational work, please cite:
 *Made with ❤️ by the TumorTrackers Research Team*
 
 </div>
+=======
+# BRAIN_TUMOR_DIAGNOSIS_BY_TUMOR_TRACKER_TEAM
+NeuroVision AI is an advanced Streamlit platform for brain tumor MRI analysis. Using deep learning, it detects, classifies, and localizes tumors (glioma, meningioma, pituitary) and normal brain tissue, provides explainable visualizations, and generates comprehensive, downloadable medical reports for educational use.
+>>>>>>> 056de4a (Initial commit)
