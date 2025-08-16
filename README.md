@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🧠 NeuroVision AI - Advanced Brain Tumor Analysis Platform
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python)](https://www.python.org/)
@@ -320,22 +319,10 @@ We welcome contributions from the medical AI community!
 
 ## 📚 Documentation
 
-### Technical Documentation
-- [API Reference](docs/api_documentation.md)
-- [Model Architecture Guide](docs/model_architecture.md)
-- [Clinical Validation Study](docs/clinical_validation.md)
-- [Deployment Instructions](docs/deployment.md)
-
 ### Research Papers
 - "Deep Learning Approaches for Brain Tumor Classification" (2024)
 - "Explainable AI in Medical Imaging: A NeuroVision Case Study" (2024)
 - "Clinical Validation of Automated Brain Tumor Detection Systems" (2024)
-
-## 🏆 Recognition & Awards
-
-- 🥇 Best Medical AI Application - Healthcare Innovation Summit 2024
-- 🏅 Outstanding Research Project - AI in Medicine Conference 2024
-- 🎖️ Excellence in Healthcare Technology - MedTech Awards 2024
 
 ## 👥 Team - TumorTrackers Research Group
 
@@ -354,7 +341,8 @@ Our multidisciplinary team combines artificial intelligence expertise with medic
 - Healthcare technology advisors
 
 ## 📞 Technical Support
-- 💬 GitHub Issues: [Report bugs or request features](https://github.com/yourusername/neurovision-ai/issues)
+- 💬 GitHub Issues: [Report bugs or request features](https://github.com/Bhanu8199/BRAIN_TUMOR_DIAGNOSIS_BY_TUMOR_TRACKER_TEAM/issues)
+
 ### Collaboration Opportunities
 - Research partnerships
 - Clinical validation studies
@@ -371,10 +359,10 @@ If you use NeuroVision AI in your research or educational work, please cite:
 ```bibtex
 @software{neurovision_ai_2024,
   title={NeuroVision AI: Advanced Brain Tumor Analysis Platform},
-  author={Tammisetti, Akhil Chandra and Medapalli, Bhanu Vardhan and Tamatapu, Sri Lavanya and Tuppdu, Sindhu},
+  author={Tammisetti Akhil Chandra and Medapalli Bhanu Vardhan and Tamatapu Sri Lavanya and Tuppdu Sindhu},
   year={2024},
   publisher={TumorTrackers Research Group},
-  url={https://github.com/yourusername/neurovision-ai}
+  url={[https://github.com/Bhanu8199/BRAIN_TUMOR_DIAGNOSIS_BY_TUMOR_TRACKER_TEAM]}
 }
 ```
 
@@ -407,7 +395,3 @@ If you use NeuroVision AI in your research or educational work, please cite:
 *Made with ❤️ by the TumorTrackers Research Team*
 
 </div>
-=======
-# BRAIN_TUMOR_DIAGNOSIS_BY_TUMOR_TRACKER_TEAM
-NeuroVision AI is an advanced Streamlit platform for brain tumor MRI analysis. Using deep learning, it detects, classifies, and localizes tumors (glioma, meningioma, pituitary) and normal brain tissue, provides explainable visualizations, and generates comprehensive, downloadable medical reports for educational use.
->>>>>>> 056de4a (Initial commit)
